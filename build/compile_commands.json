@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/mnt/c/Users/user/Desktop/xedet/build",
+    "command": "cc -Ixedet@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -g -MD -MQ 'xedet@exe/xedet.c.o' -MF 'xedet@exe/xedet.c.o.d' -o 'xedet@exe/xedet.c.o' -c ../xedet.c",
+    "file": "../xedet.c",
+    "output": "xedet@exe/xedet.c.o"
+  }
+]
