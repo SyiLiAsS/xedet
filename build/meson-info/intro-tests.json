@@ -1,1 +1,0 @@
-[{"cmd": ["/mnt/c/Users/user/Desktop/xedet/build/xedet"], "env": {}, "name": "basic", "workdir": null, "timeout": 30, "suite": ["xedet"], "is_parallel": true, "priority": 0, "protocol": "exitcode"}]
